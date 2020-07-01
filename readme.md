@@ -1,6 +1,6 @@
 # Gatsby Theme Waves
 
-> Still experimental but you can give it a try
+### **I'm not maintaining this project anymore, but I'm working on its spiritual successor: [Code Hike](https://github.com/code-hike/codehike)**
 
 Bring scrollytelling to your mdx. Animate code, images, charts, maps and more as you scroll.
 
